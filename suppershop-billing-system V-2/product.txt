@@ -1,0 +1,4 @@
+a - Computer Accessories
+b - Laptop
+c- Mobiles
+Any other number to exit

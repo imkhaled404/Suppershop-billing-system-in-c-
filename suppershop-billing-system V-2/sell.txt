@@ -1,0 +1,14 @@
+
+
+Name: 	Khaled
+Phone No: 	01793281492
+Address: 	Mirpur-2
+Product ID: 	0
+Total Cost: 	355
+
+Name: 	
+Phone No: 	777
+Address: 	fff
+Product ID: 	0
+Total Cost: 	355
+
